@@ -150,7 +150,7 @@ This application can be deployed for free using:
 
 Recommended:
 
-https://share.streamlit.io
+[https://share.streamlit.io](https://weathersense-rahul.streamlit.app/)
 
 ---
 
